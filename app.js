@@ -76,3 +76,7 @@ function switchToNextPlayer() {
     // Шоог түр алга болгоно.
     diceDom.style.display = "none";
 }
+
+document.querySelector(".btn-new").addEventListener("click", function() {
+    
+});
